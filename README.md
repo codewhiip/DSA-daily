@@ -13,3 +13,11 @@
   - 42 Array, Bit Manipulation [Leetcode-136](https://leetcode.com/problems/single-number)
   - 52 Array, Two Pointers [Leetcode-283](https://leetcode.com/problems/move-zeroes)
 - Revised concepts of Hashtable, and Recursion
+
+### (Day 2) 20-11-22, Sunday
+- Questions (Easy)-
+  - 83 Array, Binary Search	[Leetcode-35](https://leetcode.com/problems/search-insert-position)
+  - 78 String	[Leetcode-14](https://leetcode.com/problems/longest-common-prefix)																			
+  - 18 String, Stack [Leetcode-20](https://leetcode.com/problems/valid-parentheses)																			
+  - 96 Array, Hash Table [Leetcode-448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)																			
+  - 138	Math [Leetcode-9](https://leetcode.com/problems/palindrome-number)														
