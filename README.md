@@ -21,3 +21,9 @@
   - 18 String, Stack [Leetcode-20](https://leetcode.com/problems/valid-parentheses)																			
   - 96 Array, Hash Table [Leetcode-448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)																			
   - 138	Math [Leetcode-9](https://leetcode.com/problems/palindrome-number)														
+
+### (Day 3) 21-11-22, Monday
+- Questions (Medium)-
+  - 5 Linked List, Math, Recursion [Leetcode-2](https://leetcode.com/problems/add-two-numbers)
+  - 9 Array, Two Pointers, Greedy [Leetcode-11](https://leetcode.com/problems/container-with-most-water)
+  - 11 Array, Binary Search [Leetcode-33](https://leetcode.com/problems/search-in-rotated-sorted-array)
