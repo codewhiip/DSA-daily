@@ -27,3 +27,11 @@
   - 5 Linked List, Math, Recursion [Leetcode-2](https://leetcode.com/problems/add-two-numbers)
   - 9 Array, Two Pointers, Greedy [Leetcode-11](https://leetcode.com/problems/container-with-most-water)
   - 11 Array, Binary Search [Leetcode-33](https://leetcode.com/problems/search-in-rotated-sorted-array)
+
+### (Day 4) 22-11-22, Tuesday
+- Question (Easy)-
+  - 113	Array, Two Pointers	[Leetcode-26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+  - 165	Linked List, Two Pointers	[Leetcode-876](https://leetcode.com/problems/middle-of-the-linked-list)
+  - 198	Linked List	[Leetcode-83](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+  - 281	String, String Matching	[Leetcode-459](https://leetcode.com/problems/repeated-substring-pattern)
+  - 282	Array, Two Pointers	[Leetcode-27](https://leetcode.com/problems/remove-element)
