@@ -35,3 +35,8 @@
   - 198	Linked List	[Leetcode-83](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
   - 281	String, String Matching	[Leetcode-459](https://leetcode.com/problems/repeated-substring-pattern)
   - 282	Array, Two Pointers	[Leetcode-27](https://leetcode.com/problems/remove-element)
+
+### (Day 5) 23-11-22, Wednesday
+- Questions (Hard)-
+  - 44	Array, Hash Table	[Leetcode-41](https://leetcode.com/problems/first-missing-positive)
+  - 93	Linked List, Recursion	[Leetcode-25](https://leetcode.com/problems/reverse-nodes-in-k-group)
