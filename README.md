@@ -40,3 +40,7 @@
 - Questions (Hard)-
   - 44	Array, Hash Table	[Leetcode-41](https://leetcode.com/problems/first-missing-positive)
   - 93	Linked List, Recursion	[Leetcode-25](https://leetcode.com/problems/reverse-nodes-in-k-group)
+
+### (Day 6) 24-11-22, Thursday
+- Questions (Easy)-
+  - 76	Hash Table, Linked List, Two Pointers [Leetcode-141](https://leetcode.com/problems/linked-list-cycle)																				
