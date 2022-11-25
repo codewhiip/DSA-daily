@@ -43,4 +43,10 @@
 
 ### (Day 6) 24-11-22, Thursday
 - Questions (Easy)-
-  - 76	Hash Table, Linked List, Two Pointers [Leetcode-141](https://leetcode.com/problems/linked-list-cycle)																				
+  - 76	Hash Table, Linked List, Two Pointers [Leetcode-141](https://leetcode.com/problems/linked-list-cycle)	
+  
+### (Day 7) 25-11-22, Friday
+- Questions (Medium)-
+  - 82	Math [Leetcode-7](https://leetcode.com/problems/reverse-integer)
+  - 111	Array, Binary Search	[Leetcode-153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+  - 116	Array, Hash Table	[Leetcode-442](https://leetcode.com/problems/find-all-duplicates-in-an-array)
