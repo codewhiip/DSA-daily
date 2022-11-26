@@ -50,3 +50,10 @@
   - 82	Math [Leetcode-7](https://leetcode.com/problems/reverse-integer)
   - 111	Array, Binary Search	[Leetcode-153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
   - 116	Array, Hash Table	[Leetcode-442](https://leetcode.com/problems/find-all-duplicates-in-an-array)
+  
+### (Day 8) 26-11-22, Saturday
+- Questiona (Mixed)-
+  - 53	Hash Table, Linked List, Two Pointers	[Leetcode-160](https://leetcode.com/problems/intersection-of-two-linked-lists) Easy
+  - 100	Hash Table, Linked List, Two Pointers	[Leetcode-142](https://leetcode.com/problems/linked-list-cycle-ii)	Medium																					
+  - 108	Array, Hash Table, Matrix	[Leetcode-73](https://leetcode.com/problems/set-matrix-zeroes)	Medium
+  - 159	Hash Table, Math, Two Pointers	[Leetcode-202](https://leetcode.com/problems/happy-number)	Easy
