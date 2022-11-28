@@ -57,3 +57,8 @@
   - 100	Hash Table, Linked List, Two Pointers	[Leetcode-142](https://leetcode.com/problems/linked-list-cycle-ii)	Medium																					
   - 108	Array, Hash Table, Matrix	[Leetcode-73](https://leetcode.com/problems/set-matrix-zeroes)	Medium
   - 159	Hash Table, Math, Two Pointers	[Leetcode-202](https://leetcode.com/problems/happy-number)	Easy
+
+### (Day 9) 28-11-22, Monday
+- Questions (Hard)- 
+  - 43	Array, Stack, Monotonic Stack	[Leetcode-84](https://leetcode.com/problems/largest-rectangle-in-histogram)
+  - 268	Math, Recursion	[Leetcode-60](https://leetcode.com/problems/permutation-sequence)
