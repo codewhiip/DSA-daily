@@ -62,3 +62,11 @@
 - Questions (Hard)- 
   - 43	Array, Stack, Monotonic Stack	[Leetcode-84](https://leetcode.com/problems/largest-rectangle-in-histogram)
   - 268	Math, Recursion	[Leetcode-60](https://leetcode.com/problems/permutation-sequence)
+  
+### (Day 10) 29-11-22, Tuesday
+- Question (Binary Search)-
+  - 31	Array, Binary Search	[Leetcode-34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+  - 110	Array, Binary Search, Matrix	[Leetcode-74](https://leetcode.com/problems/search-a-2d-matrix)
+  - 135	Array, Binary Search	[Leetcode-162](https://leetcode.com/problems/find-peak-element)
+  - 161	Array, Binary Search	[Leetcode-540](https://leetcode.com/problems/single-element-in-a-sorted-array)
+  - 172	Array, Two Pointers, Binary Search	[Leetcode-167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)								
