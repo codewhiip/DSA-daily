@@ -75,4 +75,4 @@
 - Question (Medium)-
   - 39	Array, Two Pointers	[Leetcode-31](https://leetcode.com/problems/next-permutation)
   - 56	Array, Math, Matrix	[Leetcode-48](https://leetcode.com/problems/rotate-image)
-  - 121	Linked List	[Leetcode-92](https://leetcode.com/problems/reverse-linked-list-ii
+  - 121	Linked List	[Leetcode-92](https://leetcode.com/problems/reverse-linked-list-ii)
