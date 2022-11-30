@@ -70,3 +70,9 @@
   - 135	Array, Binary Search	[Leetcode-162](https://leetcode.com/problems/find-peak-element)
   - 161	Array, Binary Search	[Leetcode-540](https://leetcode.com/problems/single-element-in-a-sorted-array)
   - 172	Array, Two Pointers, Binary Search	[Leetcode-167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)								
+
+### (Day 11) 30-11-22, Wednesday
+- Question (Medium)-
+  - 39	Array, Two Pointers	[Leetcode-31](https://leetcode.com/problems/next-permutation)
+  - 56	Array, Math, Matrix	[Leetcode-48](https://leetcode.com/problems/rotate-image)
+  - 121	Linked List	[Leetcode-92](https://leetcode.com/problems/reverse-linked-list-ii
